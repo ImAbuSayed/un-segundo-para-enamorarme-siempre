@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-segundo-para-enamorarme-siempre/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Un segundo para enamorarme siempre](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-segundo-para-enamorarme-siempre/) |
+| **Get License** | [Get License For Un segundo para enamorarme siempre](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-segundo-para-enamorarme-siempre/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d9d951d751e28313fb3f2e2291912c7cf5a105b64ed6e9e4a57741ee82a555d3` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

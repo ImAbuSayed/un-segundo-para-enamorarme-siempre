@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Un segundo para enamorarme siempre
+
+This log tracks the cryptographic history and versioning for the song **Un segundo para enamorarme siempre** (un-segundo-para-enamorarme-siempre).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T11:03:28.154869 | `v1` | `d9d951d751e28313fb3f2e2291912c7cf5a105b64ed6e9e4a57741ee82a555d3` | `d0723d98693026dfeb1f9b9dcfd93bc28192981f44b7f82dc5b712695c89ec0c` | `2026-06-15_un-segundo-para-enamorarme-siempre-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
