@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Solo me basta un segundo para enamorarme siempre
+> Cuando te veo bailando en medio de tanta gente
+> Mami, tú tienes el fuego que mi cuerpo prende
+> Con solo una mirada mi alma se te rinde
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
